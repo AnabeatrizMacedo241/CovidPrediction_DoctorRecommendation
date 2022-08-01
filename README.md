@@ -1,1 +1,1 @@
-# Covid-19 Prediction and Docter recommendation project
+# Covid-19 Prediction and Doctor recommendation project
